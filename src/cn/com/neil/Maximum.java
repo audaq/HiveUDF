@@ -34,6 +34,8 @@ public class Maximum extends UDAF{
 		public IntWritable terminate() {
 			return result;
 		}
+
+		#new
 	}
 
 }
